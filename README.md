@@ -4,7 +4,7 @@ This project generates images from text/chat prompts using PHP and AI API.
 ## 🚀 Run on Google Colab
 Click the button below to run this project directly in your browser:
 
-[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G6xkP_b97EV7m8PO3mFTTnQTpYTsPagN)
+https://colab.research.google.com/drive/1MPkgKRp1Z7_33cz3djKFJbdISm3aQd3M?usp=sharing
 
 ## 📝 How to use
 1. Click the "Open in Colab" badge above
